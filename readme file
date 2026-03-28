@@ -1,0 +1,19 @@
+# Hostel Room Allocation System
+
+This project is a simple Java program that helps manage hostel room allocation for students.
+
+## Features
+- Add student details
+- Allocate rooms
+- Display student records
+
+## Technologies Used
+- Java
+- Object Oriented Programming
+
+## How to Run
+1. Compile the program:
+   javac HostelRoomAllocation.java
+
+2. Run the program:
+   java HostelRoomAllocation
